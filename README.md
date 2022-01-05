@@ -8,5 +8,5 @@ DevTool : NVIM editor
   
 = desktop setup =  
   
-OS : windows 10 > Windows Terminal Preview
+OS : windows 10 > Windows Terminal Preview  
 DevTool : VIM editor  
