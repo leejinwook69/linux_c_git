@@ -11,3 +11,5 @@ DevTool : NVIM editor
 OS : windows 10 > Windows Terminal Preview  
 DevTool : VIM editor, Notepad++
 
+C on Linux-Kernel System
+
