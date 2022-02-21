@@ -1,0 +1,5 @@
+#name : ljw
+#id num : 000000-0000000
+#tel num : 000-0000-0000
+#favorite food : korean cuisine
+#hobby : video games
