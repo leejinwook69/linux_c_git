@@ -6,6 +6,7 @@ int main(void)
     int min;
     int input;
 
+
     scanf("%d %d", &hour, &min);
     scanf("%d", &input);
     
