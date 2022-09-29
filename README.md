@@ -8,7 +8,7 @@ DevTool : NVIM editor
   
 = desktop setup =  
   
-OS : windows 10 > Windows Terminal Preview  
+OS : windows 11 > Windows Terminal Preview  
 DevTool : VIM editor, Notepad++
 
 C on Linux-Kernel System
