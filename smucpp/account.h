@@ -12,8 +12,8 @@ private:
 public:
     Account(string name, int id, int money);
     
-    void deposit(int money);
-    void withdraw(int money);
-    void inquiry();
-    void getOwner();
-}
+    int deposit(int money);
+    int withdraw(int money);
+    int inquiry();
+    string getOwner();
+};

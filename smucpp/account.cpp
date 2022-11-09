@@ -11,22 +11,24 @@ Account::Account(string name, int id, int money)
     this->money = money;
 }
 
-void Account::deposit(int money)
+int Account::deposit(int money)
 {
     this->money += money;
+    return this->money;
 }
 
-void Account::withdraw(int money)
+int Account::withdraw(int money)
 {
     this->money -= money;
+    return this->money;
 }
 
-void Account::inquiry()
+int Account::inquiry()
 {
-    cout << money;
+    return money;
 }
 
-void Account::getOwner()
+string Account::getOwner()
 {
-    cout << name;
+    return name;
 }
